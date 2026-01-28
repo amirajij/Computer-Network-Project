@@ -9,7 +9,7 @@ This project represents the design and implementation of a redundant, secure, an
 The architecture is built upon a hierarchical model to ensure high availability and efficient data flow between departments. The network is segmented to optimize performance and enforce strict security policies between different business units.
 
 ### Network Topology
-![Network Topology](./img/topology.png)
+![Network Topology](topology.jpeg)
 
 ---
 
